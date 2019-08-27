@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juliana Faccio Lima</title>
+    <link>https://julianaflima.github.io/</link>
+    <description>Recent content on Juliana Faccio Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Sep 2018 09:18:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://julianaflima.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Past Courses | Juliana Lima</title>
+      <link>https://julianaflima.github.io/past_courses/</link>
+      <pubDate>Sat, 08 Sep 2018 09:18:25 -0400</pubDate>
+      
+      <guid>https://julianaflima.github.io/past_courses/</guid>
+      <description>As a graduate student, I had the opportunity to design my own Critical Thinking class. You&amp;rsquo;ll find the syllabus here.
+As a teaching assistant, I was known among students for offering handouts and worksheets for each of my discussion sections (most of the time, anyway). This encouraged students to take class notes, naturally directed their attention to the most important points of the reading, and helped them to study for exams or write their papers.</description>
+    </item>
+    
+    <item>
+      <title>Syllabi | Juliana Lima</title>
+      <link>https://julianaflima.github.io/sample_syllabi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://julianaflima.github.io/sample_syllabi/</guid>
+      <description>Over my academic career, I had the opportunity to observe many different courses and to get feedback from students. Here&amp;rsquo;s some sample syllabi of courses I&amp;rsquo;d like to teach.
+Note: I update my syllabi regularly. Double check to make sure you have the latest version!
+ Intro to Ethics Philosophy of Language  </description>
+    </item>
+    
+  </channel>
+</rss>
