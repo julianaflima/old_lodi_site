@@ -6,10 +6,20 @@
     <description>Recent content on Juliana Faccio Lima</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Sep 2018 09:18:25 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 08 Sep 2018 10:03:59 -0400</lastBuildDate>
     
 	<atom:link href="https://julianaflima.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Current Courses | Juliana Lima</title>
+      <link>https://julianaflima.github.io/current/</link>
+      <pubDate>Sat, 08 Sep 2018 10:03:59 -0400</pubDate>
+      
+      <guid>https://julianaflima.github.io/current/</guid>
+      <description>PHI 1000 - Intro to Philosophy TBA
+PHI 4631 - Philosophy of Action  TBA</description>
+    </item>
     
     <item>
       <title>Past Courses | Juliana Lima</title>
@@ -29,7 +39,7 @@
       <guid>https://julianaflima.github.io/sample_syllabi/</guid>
       <description>Over my academic career, I had the opportunity to observe many different courses. Here&amp;rsquo;s some sample syllabi of courses I&amp;rsquo;d like to teach.
 Note: I update my syllabi regularly. Always check this page to make sure you have the latest version!
- Intro to Philosophy Intro to Ethics Philosophy of Language (Introduction) Philosophy of Language (Advanced) Philosophy of Mind (Introduction) Modern Logic  </description>
+ Intro to Philosophy Intro to Ethics Ethics of Robots Thoughts from the First-Person Perspective -- Philosophy of Mind (Introduction) Mind and Action: from the Individual to the Collective Philosophy of Language (Advanced) Modern Logic  </description>
     </item>
     
   </channel>
