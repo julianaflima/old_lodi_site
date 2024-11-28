@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Juliana Faccio Lima</title>
-    <link>https://julianaflima.github.io/</link>
+    <link>http://localhost:58617/</link>
     <description>Recent content on Juliana Faccio Lima</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Sep 2018 10:03:59 -0400</lastBuildDate>
-    <atom:link href="https://julianaflima.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58617/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Current Courses | Juliana Lima</title>
-      <link>https://julianaflima.github.io/current/</link>
+      <link>http://localhost:58617/current/</link>
       <pubDate>Sat, 08 Sep 2018 10:03:59 -0400</pubDate>
-      <guid>https://julianaflima.github.io/current/</guid>
-      <description>Philosophy of Science&#xD;Syllabus here. Research Methods&#xD;Syllabus here. Philosophy Rubric Pdf file describing the expectation of each letter grade.</description>
+      <guid>http://localhost:58617/current/</guid>
+      <description>&lt;!-- **Syllabi and reading schedules coming soon!** --&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h3&gt;Philosophy of Science&lt;/h3&gt;&#xD;&#xA;Syllabus &lt;a href=&#34;phil_sci_m23_syllabus.pdf&#34; target=&#34;blank&#34;&gt;here&lt;/a&gt;. &#xD;&#xA;&lt;h3&gt;Research Methods&lt;/h3&gt;&#xD;&#xA;Syllabus &lt;a href=&#34;res_meth_m23_syllabus.pdf&#34; target=&#34;blank&#34;&gt;here&lt;/a&gt;. &#xD;&#xA;&lt;h3&gt; Philosophy Rubric &lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;philosophy_rubric.pdf&#34; target=&#34;blank&#34;&gt;Pdf file&lt;/a&gt; describing the expectation of each letter grade.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Past Courses | Juliana Lima</title>
-      <link>https://julianaflima.github.io/past_courses/</link>
+      <link>http://localhost:58617/past_courses/</link>
       <pubDate>Sat, 08 Sep 2018 09:18:25 -0400</pubDate>
-      <guid>https://julianaflima.github.io/past_courses/</guid>
-      <description>Here are the syllabi of courses I have taught:&#xA;Critical Thinking&#xD;Critical Thinking Seminar: Philosophy of Mind&#xD;Ethics&#xD;Introduction to Philosophy&#xD;Introduction to Philosophy of Language&#xD;Paradoxes (logic course using Inquiry Based Learning pedagogical tools)&#xD;Philosophy of Action&#xD;Philosophy of Science&#xD;Public Reasoning&#xD;Research Methods (honors course)&#xD;I actively seek feedback from my students with mid-semester evaluations. Here you&amp;rsquo;ll find three different mid-semester evaluations I typically give to students: a general course evaluation, a course evaluation students take right after they submit their midterm assignment without knowing their grades, and another after they get back their graded midterm.</description>
+      <guid>http://localhost:58617/past_courses/</guid>
+      <description>&lt;p&gt;Here are the syllabi of courses I have taught:&lt;/p&gt;&#xA;&lt;ul&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;Phil3_M16_syllabus.pdf&#34; target=&#34;blank&#34;&gt;Critical Thinking&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;cts_1072_s20_syllabus.pdf&#34; target=&#34;blank&#34;&gt;Critical Thinking Seminar: Philosophy of Mind&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;ethics_F21_syllabus.pdf&#34; target=&#34;blank&#34;&gt;Ethics&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;phi_1000_S21_syllabus.pdf&#34; target=&#34;blank&#34;&gt;Introduction to Philosophy&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;phi_2300_s20_syllabus.pdf&#34; target=&#34;blank&#34;&gt;Introduction to Philosophy of Language&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;paradoxes_F22_syllabus.pdf&#34; target=&#34;blank&#34;&gt;Paradoxes&lt;/a&gt; (logic course using Inquiry Based Learning pedagogical tools)&lt;/li&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;phi_4631_S21_syllabus.pdf&#34; target=&#34;blank&#34;&gt;Philosophy of Action&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;phil_sci_F21_syllabus.pdf&#34; target=&#34;blank&#34;&gt;Philosophy of Science&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;pre_S23_syllabus.pdf&#34; target=&#34;blank&#34;&gt;Public Reasoning&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;research_methods_S22_syllabus.pdf&#34; target=&#34;blank&#34;&gt;Research Methods&lt;/a&gt; (honors course)&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;I actively seek feedback from my students with mid-semester evaluations. &lt;a href=&#34;Mid-semester_Evaluation.pdf&#34; target=&#34;blank&#34;&gt;Here&lt;/a&gt; you&amp;rsquo;ll find three different mid-semester evaluations I typically give to students: a general course evaluation, a course evaluation students take right after they submit their midterm assignment without knowing their grades, and another after they get back their graded midterm.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Syllabi | Juliana Lima</title>
-      <link>https://julianaflima.github.io/sample_syllabi/</link>
+      <link>http://localhost:58617/sample_syllabi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://julianaflima.github.io/sample_syllabi/</guid>
-      <description>Over my academic career, I had the opportunity to observe many different courses. Here&amp;rsquo;s some sample syllabi of courses I&amp;rsquo;d like to teach.&#xA;Note: I update my syllabi regularly. Always check this page to make sure you have the latest version!&#xA;Intro to Ethics&#xD;Ethics of Robots&#xD;Philosophy of Mind (Introduction)&#xD;Mind and Action:&#xD;from the Individual to the Collective&#xD;Philosophy of Language (Advanced)&#xD;Modern Logic&#xD;</description>
+      <guid>http://localhost:58617/sample_syllabi/</guid>
+      <description>&lt;p&gt;Over my academic career, I had the opportunity to observe many different courses. Here&amp;rsquo;s some sample syllabi of courses I&amp;rsquo;d like to teach.&lt;/p&gt;&#xA;&lt;p&gt;Note: I update my syllabi regularly. Always check this page to make sure you have the latest version!&lt;/p&gt;&#xA;&lt;ul&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;Intro_to_Ethics_Sample.pdf&#34; target=&#34;blank&#34;&gt;Intro to Ethics&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;Ethics_of_Robots_Sample.pdf&#34; target=&#34;blank&#34;&gt;Ethics of Robots&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;  &lt;!--- &lt;li&gt;&lt;a href=&#34;&#34; target=&#34;blank&#34;&gt;Thoughts from the First-Person Perspective&lt;/a&gt;&lt;/li&gt; --&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;Philosophy_of_Mind_Intro_Sample.pdf&#34; target=&#34;blank&#34;&gt;Philosophy of Mind (Introduction)&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;Mind_and_Action_Sample.pdf&#34; target=&#34;blank&#34;&gt; Mind and Action:&#xD;&#xA;from the Individual to the Collective&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;Philosophy_of_Language_Adv_Sample.pdf&#34; target=&#34;blank&#34;&gt;Philosophy of Language (Advanced)&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;  &lt;li&gt;&lt;a href=&#34;Modern_Logic_Sample.pdf&#34; target=&#34;blank&#34;&gt;Modern Logic&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
